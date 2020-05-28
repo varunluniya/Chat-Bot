@@ -14,6 +14,8 @@
 - Step1.6
 - Step1.7
 - Step1.8
+- R31 okay
+- R37
 
 ## intent:all_poles
 - No power up
@@ -23,8 +25,9 @@
 - Step2.2
 - Step2.3
 - Step2.4
+- step 1.2
 
-## intent:RYB_poles 
+## intent:RYB_poles
 - No power up R
 - No power up Y
 - No power up B
@@ -53,7 +56,7 @@
 - Step5.3
 - Step5.4
 
-## intent:no_data 
+## intent:no_data
 - Connector inverted
 - DIP switch damage
 - DIP damage
@@ -69,6 +72,7 @@
 - good morning
 - good evening
 - hey there
+- Hi
 
 ## intent:goodbye
 - bye
